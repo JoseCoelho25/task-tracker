@@ -1,4 +1,4 @@
-# TaskTracker
+# TaskTracker - Angular Project
 
 TaskMaster is a user-friendly task-tracking application built with Angular, designed to streamline your daily productivity. With TaskMaster, you can effortlessly create, organize, and manage your tasks while staying on top of your to-do list. Say goodbye to missed deadlines and overlooked tasks - TaskMaster's intuitive interface and powerful features make task management a breeze.
 
